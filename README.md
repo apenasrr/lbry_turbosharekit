@@ -15,7 +15,7 @@ Find in:  https://github.com/apenasrr/zipind
 -- Intelligent summary generation in the lbry protocol through markdown file
 
 ## How to use
-1. Paste the lbry_py (lbrynet.exe) in same folder
+1. Paste the lbry_api (lbrynet.exe) in same folder
 2. Execute 'list_upload.py' to create the customizable spreadsheet of files metadata from a folder
 3. Execute 'lbry_mass_uploader.py' to auto mass upload to lbryprotocol
 
