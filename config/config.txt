@@ -1,0 +1,2 @@
+lang='en'
+channel={'example': '12345678'}
