@@ -5,7 +5,9 @@ A suite of apps to increase efficiency in sharing a large volume of material (es
 Optimized in human effort for the uploader and comfortable (more accessibility) for those who consume the materials.
 
 ## To sum up, they are:
--- Smart optimization of video files (jet merge, reencode) in lbry standards  
+-- Smart optimization of video files (turbo merge, reencode) in lbry standards  
+Find in: https://github.com/apenasrr/mass_videojoin
+
 -- Independent grouping and partition of multiple non-video files, increasing convenience for consumption on machines with little disk space.  
 Find in:  https://github.com/apenasrr/zipind
 
